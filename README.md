@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bstrdmax
-- 👀 I’m interested in relearning programming, cloud applications, ai, and machine learning
+- 👀 I’m interested in relearning programming, cloud applications, and Ai.prompting
 - 🌱 I’m currently learning javascript, HTML, and CSS
 - 💞️ I’m learning and creating projects to absorb information faster. 
 - 📫 How to reach me max371979@gmail.com
