@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bstrdmax
 - 👀 I’m interested in relearning programming, cloud applications, and Ai.prompting
-- 🌱 I’m currently learning javascript, HTML, and CSS
-- 💞️ I’m learning and creating projects to absorb information faster. Trying to push all the things I learn to github. 
+- 🌱 I’m currently learning JavaScript, HTML, and CSS
+- 💞️ I’m learning and creating projects to absorb information faster. I am trying to push all the things I learn to Git Hub. 
 - 📫 How to reach me max371979@gmail.com
 
 <!---
