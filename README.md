@@ -60,6 +60,4 @@ In summary, a good README file should answer the following questions for a visit
  * How can I contribute?
  * What is the licensing?
 By including relevant information in a well-structured and easy-to-read format, you can significantly improve the discoverability, usability, and overall success of your GitHub project.
-
-
 --->
